@@ -24,6 +24,6 @@ console.log(typeof String(numToString)); // return string
 
 //without built-in function
 let numToString2 = numToString + '0';
-console.log(typeof numToString2);
+console.log(typeof numToString2); // string
 
 /** For more follow my Linkedin */
